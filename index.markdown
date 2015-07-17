@@ -19,6 +19,7 @@ even learn a few technical skills in the process. Don't worry, 1s and 0s wash of
 pretty easily.
 		
 ## OK, but who are you guys?
+paulmartin42 + a man from Aboyne
 
 We're [Peer 2 Peer University](http://p2pu.org)--we build learning communities
 on the web. In the last 5 years, we put together courses like 
