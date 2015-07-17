@@ -5,7 +5,7 @@ published: true
 
 ## Create a Learning Community that Lasts
 
-Online courses often feel large, intimidating and anonymous. It's hard to feel invested
+LalalaOnline courses often feel large, intimidating and anonymous. It's hard to feel invested
 in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
 don't know anyone.
 
